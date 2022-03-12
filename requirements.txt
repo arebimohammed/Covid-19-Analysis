@@ -3,6 +3,6 @@ numpy == 1.18.5
 plotly == 5.5.0
 ipywidgets == 7.6.5
 scikit-learn == 1.0.2
-pypypopulation
+pypopulation
 pycountry == 22.3.5
 voila
