@@ -1,10 +1,8 @@
 pandas == 1.2.2
 numpy == 1.18.5
-itertools
-os
 plotly == 5.5.0
 ipywidgets == 7.6.5
-sklearn == 1.0.2
-pypypopulation
+scikit-learn == 1.0.2
+pypopulation
 pycountry == 22.3.5
 voila
