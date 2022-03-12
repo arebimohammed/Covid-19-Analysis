@@ -5,6 +5,5 @@ ipywidgets == 7.6.5
 scikit-learn == 1.0.2
 pypopulation
 pycountry == 22.3.5
-warnings
 IPython
 voila
