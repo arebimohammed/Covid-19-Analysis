@@ -7,3 +7,4 @@ ipywidgets == 7.6.5
 sklearn == 1.0.2
 pypypopulation
 pycountry == 22.3.5
+voila
