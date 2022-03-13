@@ -1,4 +1,8 @@
 pandas == 1.2.2
+<<<<<<< HEAD
+=======
+openpyxl
+>>>>>>> bb53a89d50b1d721144634a429430dec1534b63f
 numpy == 1.20.3
 plotly == 5.5.0
 ipywidgets == 7.6.5
